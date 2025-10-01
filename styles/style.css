@@ -4,3 +4,16 @@ p {
     /* mar */
     /* background-image: url("../images/1000303263-01.jpeg"); */
 }
+iframe{
+    display: block;
+    margin: 20px 30px
+}
+.input{
+    display: block;
+}
+.submit{
+    margin-top: 20px;
+}.reset{
+    display: block;
+    margin-top: 20px;
+}
