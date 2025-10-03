@@ -1,0 +1,43 @@
+body{
+    max-width: 1200px;
+    background-color: aquamarine;
+    margin: 0 auto;
+}
+.ccc{
+    text-align: center;
+}
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+
+.card img{
+    width: 100%;
+    border-radius: 9px;
+}
+.card{
+    border: 5px solid greenyellow;
+    width: 300px;
+    padding: 10px;
+    border-radius: 9px;
+    background-color: cornflowerblue;
+    box-shadow: 4px 3px 20px green;text-align: center;
+    
+}
+.card:hover{
+    background-color: antiquewhite;
+}
+.card h3{
+    font-size: 1.25em;
+    font-weight: 700;
+}
+.card button{
+    padding: 5px 15px;
+    border-radius: 10px;
+    
+}
+.card button:hover{
+    background-color: chocolate;
+}
